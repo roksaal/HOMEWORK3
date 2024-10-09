@@ -8,6 +8,7 @@ public class PositiveInteger {
 
     public boolean isPerfect()
     {
+        //
         if (num <= 1)
         {
             return false;
