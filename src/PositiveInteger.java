@@ -28,6 +28,7 @@ public class PositiveInteger {
         return sum == num;
     }
 
+    // isAbundant
     public boolean isAbundant() {
         if (num <= 1)
         {
